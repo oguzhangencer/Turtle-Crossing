@@ -1,3 +1,3 @@
-# Turtle Crossing
+# Turtle Crossing Game
 # Libraries/Technologies used
 * Turtle
